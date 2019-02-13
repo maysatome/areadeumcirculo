@@ -1,0 +1,81 @@
+int main ()
+{
+
+
+int n1,n2,n3,n4, soma;	
+
+n1 = 4;
+n2 = 2;
+n3 = 2;
+n4 = 2;
+	
+soma= n1+n2+n3+n4;
+
+printf ("%d\soma, %d\n, %d\n, %d\n, %d\n", soma, n1, n2, n3, n4);
+
+ return 0;	
+	
+}
+
+
+
+
+
+Second
+
+
+int main()
+
+{ 
+
+int n1, n2, n3, n4, soma;
+
+// Mostra mensagem antes da leitura
+
+// Recebe os quatro números
+cout << "\nDigite n1= 2"; cin >> n1;
+cout << "\nDigite n2= 2"; cin >> n2;
+cout << "\nDigite n3= 2"; cin >> n3;
+cout << "\nDigite n4= 4"; cin >> n4;
+// Soma os números digitados
+soma = n1 + n2 + n3 + n4;
+// Mostra mensagem e resultado da soma
+cout << "\nResultado da soma = " << soma;
+
+system("PAUSE");
+
+return 0;
+}
+
+
+
+tird 
+
+
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+
+{ 
+
+int n1, n2, n3, n4, soma;
+// Mostra mensagem antes da leitura
+cout << "\nDigite quatro numeros ";
+// Recebe os quatro números
+cout << "\nDigite n1= 2"; cin >> n1;
+cout << "\nDigite n2= 2"; cin >> n2;
+cout << "\nDigite n3= 2"; cin >> n3;
+cout << "\nDigite n4= 2"; cin >> n4;
+// Soma os números digitados
+soma = n1 + n2 + n3 + n4;
+// Mostra mensagem e resultado da soma
+cout << "\nResultado da soma = " << soma;
+
+system("PAUSE");
+
+return 0;
+
+}
