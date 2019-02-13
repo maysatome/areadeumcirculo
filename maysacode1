@@ -11,7 +11,7 @@ int main ()
 	//printf ("The inputs are: %d %d %d %d\n", n1,n2,n3,n4);
 	//printf ("The output is %d\n",soma);
 	
-	
+	printf ("%d  + %d  + %d + %d = %d \n", n1,n2,n3,n4, some);
 	return 0;
 }
 
