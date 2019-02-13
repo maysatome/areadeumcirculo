@@ -1,20 +1,18 @@
+#include<stdio.h>
+
 int main ()
 {
-
-
-int n1,n2,n3,n4, soma;	
-
-n1 = 4;
+	int n1,n2,n3,n4, soma;	
+	n1 = 4;
 n2 = 2;
 n3 = 2;
 n4 = 2;
-	
+
 soma= n1+n2+n3+n4;
 
 printf ("%d\soma, %d\n, %d\n, %d\n, %d\n", soma, n1, n2, n3, n4);
 
- return 0;	
-	
+return 0;
 }
 
 
