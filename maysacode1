@@ -8,7 +8,8 @@ int main ()
 	n3 = 2;	
 	n4 = 2;
 	soma= n1+n2+n3+n4;
-	printf ("soma is %d\n",soma);
+	printf ("The inputs are: %d %d %d %d\n", n1,n2,n3,n4);
+	printf ("The output is %d\n",soma);
 	return 0;
 }
 
